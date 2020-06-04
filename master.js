@@ -3,3 +3,4 @@ master 1 生成
 １-０subBranch　生成
 １-１subBranch　修正１
 １-２subBranch　修正２
+１-３subBranch　修正３
