@@ -4,3 +4,4 @@ master 1 生成
 ３．master 修正３
 ４．master 修正４
 ５．master 修正５
+６．master 修正６
